@@ -21,7 +21,6 @@ public class PlanetCommand implements Runnable {
     public void run() {
         Planet report = starWarsService.getPlanet(planetCode);
         System.out.println(report);
-        System.out.println("llega");
 
     }
 }

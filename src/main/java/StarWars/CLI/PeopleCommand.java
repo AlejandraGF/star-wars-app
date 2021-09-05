@@ -21,6 +21,5 @@ public class PeopleCommand implements Runnable {
     public void run() {
         People report = starWarsService.getPeople(peopleCode);
         System.out.println(report);
-        System.out.println("llega");
     }
 }
