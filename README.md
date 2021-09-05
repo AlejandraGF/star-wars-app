@@ -3,7 +3,7 @@
 
 Aplicación que se conecta al StarWarsAPI para obtener información
 
-Nombre:Alejandra González
+Nombre:Alejandra González  
 Carnet:2020035049
 
 Opciones:
